@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying AI & Big Data<br>👨🏼‍💻 Junior software developer graduated in 2022<br>🐍 Python specialized<br>📚 Working on my portfolio
+🔭 Studying AI & Big Data<br>👨🏼‍💻 Data Analyst since 2022<br>🐍 Python specialized<br>📚 Working on my portfolio
 
 
 ## 🌐 Socials:
